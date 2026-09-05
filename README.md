@@ -4,7 +4,7 @@ Repositorio de actividades curso Ethical Hacking
 ## Alumna
 Vivian Peña Hurtado
 
-## Cursdo
+## Curso
 
 Ethical Hacking - Hacker Women Council
 
